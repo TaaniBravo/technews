@@ -160,4 +160,3 @@ public class Post implements Serializable {
                 '}';
     }
 }
-}
